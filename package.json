@@ -1,0 +1,11 @@
+{
+  "name": "название-вашего-проекта",
+  "version": "1.0.0",
+  "description": "Описание вашего проекта",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "author": "Ваше имя",
+  "license": "MIT"
+}
